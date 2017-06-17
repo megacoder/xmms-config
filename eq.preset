@@ -1,0 +1,16 @@
+[Presets]
+Preset0=Rolloff
+
+[Rolloff]
+Preamp=0
+Band0=-10.4
+Band1=-3.2
+Band2=0
+Band3=0
+Band4=1.6
+Band5=4
+Band6=6.4
+Band7=6.4
+Band8=5.6
+Band9=0
+
